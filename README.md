@@ -1,9 +1,14 @@
-<h1 align="center">Hi there, I'm Geovanne!👋 </h1>
+### Hi there, I'm Geovanne!👋
+
+##
 
 - 🔭 I’m working with **usupervised learning**
-- 🌱 I’m currently learning **parallel programming and machine learning**
 - 📫 How to reach me **geovanne_mansano@hotmail.com**
 
+ <div class="tenor-gif-embed" data-postid="22543743" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/jealous-gif-22543743">Jealous GIF</a>from <a href="https://tenor.com/search/jealous-gifs">Jealous GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+<div https://tenor.com/pt-BR/view/jealous-gif-22543743
+ 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geomansano&show_icons=true&locale=en&layout=compact" alt="geomansano" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geomansano&show_icons=true&locale=en" alt="geomansano" /></p>
@@ -13,7 +18,10 @@
 
 ##
 
-<div> 
-  <a href = "geovanne_mansano@hotmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/geomansano" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+[![Linkedin: geomansano](https://img.shields.io/badge/-geomansano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geomansano)](https://www.linkedin.com/in/geomansano)
+[![Kaggle: Geovanne Mansano](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white&style=social)](https://www.kaggle.com/e9r45xryus)
+[![Leetcode: geomansano](	https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/geomansano/)
+[![GitHub geomansano](https://img.shields.io/github/followers/geomansano?label=follow&style=social)](https://github.com/geomansano)
+
+
+
