@@ -1,5 +1,6 @@
  <h2> Hi there, I'm Geovanne!👋  </h2>
- <img align='right' src="jealous.gif" width="180">
+
+ <!-- <img align='right' src="jealous.gif" width="180"> -->
 
 <ul>
   <li>🔭 I’m working with <strong>unsupervised learning</strong></li>
