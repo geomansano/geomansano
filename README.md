@@ -1,6 +1,4 @@
 <h1 align="center">Hi there, I'm Geovanne!👋 </h1>
-<h3 align="center">Artificial Intelligence (AI) beats human Go champion.</h3>
-
 
 - 🔭 I’m working with **usupervised learning**
 - 🌱 I’m currently learning **parallel programming and machine learning**
