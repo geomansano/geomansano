@@ -1,4 +1,4 @@
-<p></p> align="center"> Hello World, I'm Geovanne!👋</p>
+<p> Hello World, I'm Geovanne!👋</p>
 <h3 align="center">This is my repository for Data Science.</h3>
  
 <h2 align="left">💡 About me:</h2>
