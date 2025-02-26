@@ -8,6 +8,8 @@
 
 I’m Geovanne, a Computer Science undergraduate from Brazil with a focus in **Data Science**, fascinated by the potential of data to drive change. I specialize in transforming complex information into actionable insights and creating innovative solutions that generate **business impact**. With strong skills in **Machine Learning** and **AI**, I work to optimize processes, automate workflows, and uncover valuable patterns that support **strategic decision-making**. I’m always eager to explore new technologies, share my projects, and collaborate on meaningful challenges.
 
+
+
 <h2 align="left">💡 About me:</h2>
 <ul>
   <li> 📊 Data Scientist with 3 years of expierence in Analytics and Data Area.</li>
