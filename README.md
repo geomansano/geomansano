@@ -1,7 +1,7 @@
-<h1 align="center"> Hi there, I'm Geovanne!👋</h1>
+<p></p> align="center"> Hello World, I'm Geovanne!👋</p>
 <h3 align="center">This is my repository for Data Science.</h3>
  
-<h2 align="left">🗨 About me:</h2>
+<h2 align="left">💡 About me:</h2>
 <ul>
   <li> 📊 Data Scientist with 3 years of expierence in Analytics and Data Area.</li>
   <li> ✏️ Undergraduate student at UFSCar in Computer Science</li>
