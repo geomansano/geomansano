@@ -1,5 +1,3 @@
-
-
 <h1 align="center"> Hi there, I'm Geovanne!👋</h1>
 <h3 align="center">This is my repository for Data Science.</h3>
  
