@@ -5,7 +5,7 @@
  
 <h2 align="left">🗨 About me:</h2>
 <ul>
-  <li> 📊 Data Scientist with 3 years of expierence in Analytics and Data Area.<strong>unsupervised learning</strong></li>
+  <li> 📊 Data Scientist with 3 years of expierence in Analytics and Data Area.</li>
   <li> ✏️ Undergraduate student at UFSCar in Computer Science</li>
   <li> 📫 How to reach me: <strong><a href="mailto:geovanne_mansano@hotmail.com">geovanne_mansano@hotmail.com</a></strong></li>
 </ul>
