@@ -6,7 +6,7 @@
 [![Leetcode: geomansano](	https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/geomansano/) 
 [![GitHub geomansano](https://img.shields.io/github/followers/geomansano?label=follow&style=social)](https://github.com/geomansano)
 
-I’m Geovanne, a Computer Science undergraduate from Brazil with a focus in **Data Science**, fascinated by the potential of data to drive change. I specialize in transforming complex information into actionable insights and creating innovative solutions that generate **business impact**. With strong skills in **Machine Learning and AI**, I work to optimize processes, automate workflows, and uncover valuable patterns that support **strategic decision-making**. I’m always eager to explore new technologies, share my projects, and collaborate on meaningful challenges.
+I’m Geovanne, a Computer Science undergraduate from Brazil with a focus in **Data Science**, fascinated by the potential of data to drive change. I specialize in transforming complex information into actionable insights and creating innovative solutions that generate **business impact**. With strong skills in **Machine Learning** and **AI**, I work to optimize processes, automate workflows, and uncover valuable patterns that support **strategic decision-making**. I’m always eager to explore new technologies, share my projects, and collaborate on meaningful challenges.
 
 <h2 align="left">💡 About me:</h2>
 <ul>
