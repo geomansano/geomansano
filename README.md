@@ -1,9 +1,9 @@
- <h2> Hi there, I'm Geovanne!👋  </h2>
 
- <!-- <img align='right' src="jealous.gif" width="180"> -->
 
- <h3 align="center">This is my repository for Data Science.</h3>
-
+<h1 align="center"> Hi there, I'm Geovanne!👋</h1>
+<h3 align="center">This is my repository for Data Science.</h3>
+ 
+<h2 align="left">🗨 About me:</h2>
 <ul>
   <li> 📊 Data Scientist with 3 years of expierence in Analytics and Data Area.<strong>unsupervised learning</strong></li>
   <li> ✏️ Undergraduate student at UFSCar in Computer Science</li>
