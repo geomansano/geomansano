@@ -2,9 +2,12 @@
 
  <!-- <img align='right' src="jealous.gif" width="180"> -->
 
+ <h3 align="center">This is my repository for Data Science.</h3>
+
 <ul>
-  <li>🔭 I’m working with <strong>unsupervised learning</strong></li>
-  <li>📫 How to reach me: <strong><a href="mailto:geovanne_mansano@hotmail.com">geovanne_mansano@hotmail.com</a></strong></li>
+  <li> 📊 Data Scientist with 3 years of expierence in Analytics and Data Area.<strong>unsupervised learning</strong></li>
+  <li> ✏️ Undergraduate student at UFSCar in Computer Science</li>
+  <li> 📫 How to reach me: <strong><a href="mailto:geovanne_mansano@hotmail.com">geovanne_mansano@hotmail.com</a></strong></li>
 </ul>
 
 <br>
