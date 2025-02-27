@@ -9,10 +9,6 @@
 
 I’m Geovanne, a Computer Science undergraduate from Brazil with a focus in **Data Science**, fascinated by the potential of data to drive change. I specialize in transforming complex information into actionable insights and creating innovative solutions that generate **business impact**. With strong skills in **Machine Learning** and **AI**, I work to optimize processes, automate workflows, and uncover valuable patterns that support **strategic decision-making**. I’m always eager to explore new technologies, share my projects, and collaborate on meaningful challenges.
 
-<h2 align="left">🌐 Network</h2>
-
-You can find me on [LinkedIn](https://www.linkedin.com/in/geomansano/), [Medium](https://medium.com/@geovanne_mansano), [Kaggle](https://www.kaggle.com/geomansano) or feel free to shoot me an [Email](geovanne_mansano@hotmail.com).
-
 <h2 align="left">💡 About me</h2>
 <ul>
   <li> 🔭 I'm current working at <a href="https://www.kearney.com/">Kearney</a>, empowering industries with Analytics and AI based tools.</li> 
@@ -40,14 +36,19 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/geomansano/), [Medium]
   <img alt="Metabase" src="https://img.shields.io/badge/Metabase-2E85D5?logo=metabase&logoColor=white"/>
     <img alt="Excel" src="https://img.shields.io/badge/Excel-1E6F43?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAAsTAAALEwEAmpwYAAABNElEQVR4nO1Uu0oEQRBc/QLRTP9BDAxETFREMyNjwcxH4k9oIIqXibGYKQgnamhubGCiwUbudFXd7geMzHIYHDfcnjcYXcHADNPdNdXFdJaNMSpITjnnlgDsEjgVcE/gPVkhAtZvDU8QKSTyi8ALyZaAw1hcT85jlEDkpYADkmvOubmmDxmosKl09sQNOvdN7JDHAu4kTdd3ZItmJ8kISC4QcACOzGy5bp20lbRFHfJWwBvNboLJyT2oqmo+qCBQlGW5ktSDAEmLoTiBbzm3kZTAez9B8klkO3w4ka/e+8lkLQKwHfZmtklyvTbZbCcZgYBzSddBSVfNlYCLpB7EwFEJuqNin+RqURSzsbg/t6h3Cfgk8PxL3GzYtf9/XMeQ5/lM+Gh0bk/SGc0eRH5EE8bIhsQPzGhsQLfk8/UAAAAASUVORK5CYII=" alt="ms-excel--v2"/>
   <img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-F2C811?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAABeElEQVR4nO2Zy0rDUBBAz8quKiioqGB+SRBF/QWl/6fNuupGXQrqxk/QLMwqcmECIfTmJuTh3DIHsigzbed0OkmYgGEYhqGEGbAAHoEMKBQcmdRzC2y1kTgGXhUUXjQcL1JnYydKiS/gDJijgzlwCrxJfc9NnVlUJHbRyY7U5+q88SU9SYLrhGbOpc4HX8KPJGj5O/nYljq/fQnlMMVA0VSriQxEAqRyzVgCJ7F2xElUrxf3sYrkNRH3OkqRdVfxUG734ASYiO8XmeKso7ojaYezjmqRvMNZR7VI0aGQqEWSwAxFIxKaoWhEQjMUjUjfeBUTGWJY1XQk7TmsakTynsM6mUgmwb3Am8cqtK3Ifmj5UK6DLpSLXIbWQeWC7l2sNYocAB8Sc3vg4MrUJV8pE7kGPiv7X1evl6PaEluTSFGROKQFM2nbSpnISva9rR4rNPHfIoOxMSJ57Ut+J44PxjJwizJ2fDAS+XD3+OFuzU3j2HHDMAw2hz8sz1ws6P2ccwAAAABJRU5ErkJggg==" alt="power-bi"/>
-   
 </p>
+
+
+<!--- <h2 align="left">🌐 Network</h2>
+
+You can find me on [LinkedIn](https://www.linkedin.com/in/geomansano/), [Medium](https://medium.com/@geovanne_mansano), [Kaggle](https://www.kaggle.com/geomansano) or feel free to shoot me an [Email](geovanne_mansano@hotmail.com).
+-->
+
 <!---
 <div>
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geomansano&show_icons=true&locale=en&layout=compact" alt="geomansano" /></p> 
 </div> 
 -->
-
 
 
 
