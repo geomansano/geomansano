@@ -14,7 +14,6 @@ I’m Geovanne, a Computer Science undergraduate from Brazil with a focus in **D
   <li> 🔭 I'm current working at <a href="https://www.kearney.com/">Kearney</a>, empowering industries with Analytics and AI based tools.</li> 
   <li> 👨‍🎓 I have a degree in Computer Science, with especialization (Minor) in Data Science.</li>
   <li> 🌱 I’m constantly growing and refining my skills, with a deep dive into Machine Learning, Statistics and Generative AI.</li> 
-  <li> ⌨️ I have experience with Python, SQL, MongoDB, Power BI and Excel. </strong></li>
 </ul>
 
 <h2 align="left"> 💻 Tech Skills</h2>
