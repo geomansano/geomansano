@@ -1,10 +1,11 @@
 <h1> Hello, World! 👋</h1>
 <h3>This is my repository for Data Science.</h3>
 
-[![Linkedin: geomansano](https://img.shields.io/badge/-geomansano-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geomansano)](https://www.linkedin.com/in/geomansano)
+[![Linkedin: geomansano](https://img.shields.io/badge/-geomansano-blue?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAABrElEQVR4nO2ZT0oDMRTGI4or/4AuBUFP4BkUrLoUxZ07j+BGxHN4BXe16rpHcFMUlYLaLizN+743JxhJ3UiJzVTByZR88O3eTN6PNy/JJMYkJSX9SlmW7SrZINAhICW7Q5GGiOyMBaHARQTJi88AzgtXouxkGbCI1MLV+PqcJGqLXBcBeS89UYy2km9BkLKTZEEnEE5YRR5J7qvq0sAih0o+VQ+E3IxlujZ/Aen3+/PD8dbahcqBiGeL4BanyoEo+ayqR91ud9nZ9QiBCvYI4rFJIJigipgCz4RilLxza5G1dqXVas32er05khskTwm8RA8yWDjJrVFjA1gkcBU1CMm14ODGmGazOaPkbbQg4wjAqpIf0YPkeT4dzIO8jBaE5AmBh0HTA/cAjn+MtfYgSpAsy/bG+f9W1fUoQZS88b3TnRH44m1gM1oeCND2ggBtX3ye51NRgvz1vUwgSBXxKn1aSD2CNGsxTb9+Ma0jJp2iyH/bTMhFz2sQxN2elp0oQybrQRB3vht9RazdNkXkroCjhQDOCkF8q0zN3Z7G0DPqciDrhSuRlJRkhvUJ6ekUh/YJtvMAAAAASUVORK5CYII=)](https://www.linkedin.com/in/geomansano)
 [![Kaggle: Geovanne Mansano](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white&style=social)](https://www.kaggle.com/e9r45xryus)
-[![Leetcode: geomansano](	https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/geomansano/) 
+[![Medium: Geovanne Mansano](https://img.shields.io/badge/Medium-blue?logo=medium)](https://medium.com/@geovanne_mansano)
 [![GitHub geomansano](https://img.shields.io/github/followers/geomansano?label=follow&style=social)](https://github.com/geomansano)
+ <!--[![Leetcode: geomansano](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/geomansano/) -->
 
 I’m Geovanne, a Computer Science undergraduate from Brazil with a focus in **Data Science**, fascinated by the potential of data to drive change. I specialize in transforming complex information into actionable insights and creating innovative solutions that generate **business impact**. With strong skills in **Machine Learning** and **AI**, I work to optimize processes, automate workflows, and uncover valuable patterns that support **strategic decision-making**. I’m always eager to explore new technologies, share my projects, and collaborate on meaningful challenges.
 
@@ -21,6 +22,9 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/geomansano/), [Medium]
 </ul>
 
 <h2 align="left"> 💻 Tech Skills</h2>
+
+
+<img src=">
 
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
