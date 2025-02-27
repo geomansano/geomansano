@@ -23,9 +23,6 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/geomansano/), [Medium]
 
 <h2 align="left"> 💻 Tech Skills</h2>
 
-
-<img src=">
-
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
