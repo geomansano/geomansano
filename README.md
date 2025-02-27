@@ -37,7 +37,6 @@ I’m Geovanne, a Computer Science undergraduate from Brazil with a focus in **D
   <img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-F2C811?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAABeElEQVR4nO2Zy0rDUBBAz8quKiioqGB+SRBF/QWl/6fNuupGXQrqxk/QLMwqcmECIfTmJuTh3DIHsigzbed0OkmYgGEYhqGEGbAAHoEMKBQcmdRzC2y1kTgGXhUUXjQcL1JnYydKiS/gDJijgzlwCrxJfc9NnVlUJHbRyY7U5+q88SU9SYLrhGbOpc4HX8KPJGj5O/nYljq/fQnlMMVA0VSriQxEAqRyzVgCJ7F2xElUrxf3sYrkNRH3OkqRdVfxUG734ASYiO8XmeKso7ojaYezjmqRvMNZR7VI0aGQqEWSwAxFIxKaoWhEQjMUjUjfeBUTGWJY1XQk7TmsakTynsM6mUgmwb3Am8cqtK3Ifmj5UK6DLpSLXIbWQeWC7l2sNYocAB8Sc3vg4MrUJV8pE7kGPiv7X1evl6PaEluTSFGROKQFM2nbSpnISva9rR4rNPHfIoOxMSJ57Ut+J44PxjJwizJ2fDAS+XD3+OFuzU3j2HHDMAw2hz8sz1ws6P2ccwAAAABJRU5ErkJggg==" alt="power-bi"/>
 </p>
 
-
 <!--- <h2 align="left">🌐 Network</h2>
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/geomansano/), [Medium](https://medium.com/@geovanne_mansano), [Kaggle](https://www.kaggle.com/geomansano) or feel free to shoot me an [Email](geovanne_mansano@hotmail.com).
