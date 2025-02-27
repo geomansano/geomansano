@@ -12,9 +12,10 @@ I’m Geovanne, a Computer Science undergraduate from Brazil with a focus in **D
 
 <h2 align="left">💡 About me:</h2>
 <ul>
-  <li> 📊 Data Scientist with 3 years of expierence in Analytics and Data Area.</li>
-  <li> ✏️ Undergraduate student at UFSCar in Computer Science</li>
-  <li> 📫 How to reach me: <strong><a href="mailto:geovanne_mansano@hotmail.com">geovanne_mansano@hotmail.com</a></strong></li>
+  <li> 🔭 I'm current working at [Kearney](https://www.kearney.com/), empowering industries with Analytics and AI based tools.</li> 
+  <li> 👨‍🎓 I have a degree in Computer Science, with especialization (Minor) in Data Science.</li>
+  <li> 🌱 I’m constantly growing and refining my skills, with a focus on deep diving into Machine Learning and Generative AI.</li>
+  <li> ⌨️ I have experience with Python, SQL, MongoDB, Power BI and Excel. </strong></li>
 </ul>
 
 <br>
